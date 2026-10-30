@@ -1,0 +1,178 @@
+[
+  {
+    "nama_menu": "Chicken Steak",
+    "kategori": "Foods",
+    "komposisi": ["Chicken Leg", "Chili Sauce"],
+    "harga": 120000,
+    "rating": 4.9,
+    "url_gambar": "/images/foods/food_1.jpg"
+  },
+  {
+    "nama_menu": "Beef Burger",
+    "kategori": "Foods",
+    "komposisi": [
+      "Beef Patty",
+      "Burger Bun",
+      "Cheddar Cheese",
+      "Lettuce",
+      "Tomato"
+    ],
+    "harga": 85000,
+    "rating": 4.8,
+    "url_gambar": "/images/foods/food_2.jpg"
+  },
+  {
+    "nama_menu": "Spaghetti Carbonara",
+    "kategori": "Foods",
+    "komposisi": ["Spaghetti", "Cream Sauce", "Beef Bacon", "Parmesan Cheese"],
+    "harga": 75000,
+    "rating": 4.7,
+    "url_gambar": "/images/foods/food_3.jpg"
+  },
+  {
+    "nama_menu": "Grilled Salmon",
+    "kategori": "Foods",
+    "komposisi": ["Grilled Salmon", "Roasted Vegetables", "Lemon Butter Sauce"],
+    "harga": 145000,
+    "rating": 4.9,
+    "url_gambar": "/images/foods/food_4.jpg"
+  },
+  {
+    "nama_menu": "Chicken Teriyaki Rice Bowl",
+    "kategori": "Foods",
+    "komposisi": [
+      "Chicken Thigh",
+      "Steamed Rice",
+      "Teriyaki Sauce",
+      "Sesame Seeds"
+    ],
+    "harga": 68000,
+    "rating": 4.6,
+    "url_gambar": "/images/foods/food_5.jpg"
+  },
+  {
+    "nama_menu": "Beef Lasagna",
+    "kategori": "Foods",
+    "komposisi": [
+      "Lasagna Sheets",
+      "Ground Beef",
+      "Tomato Sauce",
+      "Mozzarella Cheese"
+    ],
+    "harga": 95000,
+    "rating": 4.8,
+    "url_gambar": "/images/foods/food_6.jpg"
+  },
+  {
+    "nama_menu": "Crispy French Fries",
+    "kategori": "Snacks",
+    "komposisi": ["Potatoes", "Sea Salt", "Garlic Seasoning"],
+    "harga": 28000,
+    "rating": 4.7,
+    "url_gambar": "/images/snacks/snack_1.jpg"
+  },
+  {
+    "nama_menu": "Chicken Wings",
+    "kategori": "Snacks",
+    "komposisi": ["Chicken Wings", "Spicy BBQ Sauce", "Sesame Seeds"],
+    "harga": 45000,
+    "rating": 4.8,
+    "url_gambar": "/images/snacks/snack_2.jpg"
+  },
+  {
+    "nama_menu": "Mozzarella Sticks",
+    "kategori": "Snacks",
+    "komposisi": ["Mozzarella Cheese", "Breadcrumbs", "Marinara Sauce"],
+    "harga": 38000,
+    "rating": 4.6,
+    "url_gambar": "/images/snacks/snack_3.jpg"
+  },
+  {
+    "nama_menu": "Crispy Onion Rings",
+    "kategori": "Snacks",
+    "komposisi": ["Onion", "Flour", "Breadcrumbs", "Special Dipping Sauce"],
+    "harga": 32000,
+    "rating": 4.5,
+    "url_gambar": "/images/snacks/snack_4.jpg"
+  },
+  {
+    "nama_menu": "Chicken Nuggets",
+    "kategori": "Snacks",
+    "komposisi": [
+      "Chicken Breast",
+      "Breadcrumbs",
+      "Black Pepper",
+      "Tomato Sauce"
+    ],
+    "harga": 35000,
+    "rating": 4.6,
+    "url_gambar": "/images/snacks/snack_5.jpg"
+  },
+  {
+    "nama_menu": "Loaded Nachos",
+    "kategori": "Snacks",
+    "komposisi": [
+      "Tortilla Chips",
+      "Cheddar Cheese",
+      "Ground Beef",
+      "Jalapenos",
+      "Salsa"
+    ],
+    "harga": 48000,
+    "rating": 4.8,
+    "url_gambar": "/images/snacks/snack_6.jpg"
+  },
+  {
+    "nama_menu": "Iced Caramel Latte",
+    "kategori": "Beverages",
+    "komposisi": ["Espresso", "Fresh Milk", "Caramel Syrup", "Ice Cubes"],
+    "harga": 35000,
+    "rating": 4.9,
+    "url_gambar": "/images/beverages/beverage_1.jpg"
+  },
+  {
+    "nama_menu": "Chocolate Milkshake",
+    "kategori": "Beverages",
+    "komposisi": [
+      "Chocolate Ice Cream",
+      "Fresh Milk",
+      "Chocolate Syrup",
+      "Whipped Cream"
+    ],
+    "harga": 42000,
+    "rating": 4.8,
+    "url_gambar": "/images/beverages/beverage_2.jpg"
+  },
+  {
+    "nama_menu": "Fresh Lemonade",
+    "kategori": "Beverages",
+    "komposisi": ["Fresh Lemon Juice", "Water", "Sugar Syrup", "Ice Cubes"],
+    "harga": 25000,
+    "rating": 4.6,
+    "url_gambar": "/images/beverages/beverage_3.jpg"
+  },
+  {
+    "nama_menu": "Strawberry Smoothie",
+    "kategori": "Beverages",
+    "komposisi": ["Fresh Strawberries", "Yogurt", "Fresh Milk", "Honey"],
+    "harga": 38000,
+    "rating": 4.7,
+    "url_gambar": "/images/beverages/beverage_4.jpg"
+  },
+  {
+    "nama_menu": "Classic Iced Tea",
+    "kategori": "Beverages",
+    "komposisi": ["Black Tea", "Sugar Syrup", "Ice Cubes", "Lemon Slice"],
+    "harga": 18000,
+    "rating": 4.5,
+    "url_gambar": "/images/beverages/beverage_5.jpg"
+  },
+  {
+    "nama_menu": "Matcha Latte",
+    "kategori": "Beverages",
+    "komposisi": ["Matcha Powder", "Fresh Milk", "Sugar Syrup", "Ice Cubes"],
+    "harga": 36000,
+    "rating": 4.8,
+    "url_gambar": "/images/beverages/beverage_6.jpg"
+  }
+]
